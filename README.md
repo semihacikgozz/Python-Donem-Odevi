@@ -16,4 +16,7 @@ Burada işi biraz daha büyüterek birden fazla müşteriyi sisteme dahil ettim.
 * math kütüphanesiyle küsuratlı fatura tutarlarını yuvarlayıp, datetime ile günün tarihini çektim. 
 * Son olarak şirket hizmetlerindeki tekrar eden kayıtları temizlemek için set() metodunu kullandım.
 
+NOT: GitHub bazen .ipynb dosyalarının önizlemesini yüklerken çökebiliyor ve "An error occurred" hatası verebiliyor.
+Eğer tarayıcıda doğrudan göremezseniz, dosyayı indirip kendi Google Colab veya Jupyter Notebook ortamınıza atarak sorunsuz bir şekilde çalıştırabilirsiniz. Veya adres çubuğundaki github.com kısmını colab.research.google.com/github olarak değiştirerek direkt Colab üzerinde açabilirsiniz.
+
 *Semih AÇIKGÖZ - 437579*
